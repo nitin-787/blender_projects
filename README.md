@@ -13,4 +13,7 @@
 <img src="https://user-images.githubusercontent.com/76255199/210178825-a1d2bcaa-64a4-4938-acbe-63e0271dd7b1.png" height=300>
 
 ### 26 jan
-<img src="https://user-images.githubusercontent.com/76255199/214999118-a445f97b-2723-4701-861d-50d1b5bcc097.png" height=600>
+<img src="https://user-images.githubusercontent.com/76255199/214999118-a445f97b-2723-4701-861d-50d1b5bcc097.png" height=500>
+
+### 28 jan
+<img src="https://user-images.githubusercontent.com/76255199/215248585-456656e0-42c4-4339-94bf-150174dcfa45.png" height=500>
